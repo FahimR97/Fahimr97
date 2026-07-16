@@ -4,17 +4,17 @@
 
 🏢 **Systems Development Engineer** at **Amazon Web Services (AWS)**
 
- **London, United Kingdom** 🇬🇧📍
+🇬🇧 📍 **London, United Kingdom**
 
-I'm passionate about building scalable software, cloud infrastructure, AI-powered applications, and distributed systems.
+I build scalable software, cloud infrastructure, AI-powered applications, and distributed systems.
 
 ---
 
 ## 🚀 About Me
 
-I'm a Software Engineer who enjoys building products that solve real problems.
+I'm a Software Engineer with a passion for building products that solve real-world problems.
 
-Professionally, I work on cloud infrastructure and distributed systems at Amazon Web Services. Outside of work, I build AI-powered SaaS products, explore modern technologies, and continuously improve my engineering skills.
+At Amazon Web Services, I work on cloud infrastructure and distributed systems. Outside of work, I'm building AI-powered SaaS products and platforms that help developers and IT professionals learn, automate, and build faster.
 
 ---
 
@@ -22,7 +22,7 @@ Professionally, I work on cloud infrastructure and distributed systems at Amazon
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,docker,kubernetes,aws,terraform,linux,bash,git,github,vscode&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,go,typescript,javascript,react,nextjs,nodejs,docker,kubernetes,aws,terraform,linux,bash,git,github,vscode&perline=8"/>
 
 </div>
 
@@ -40,7 +40,7 @@ An AI-powered pipeline for generating short-form sports content using LLMs, auto
 
 ### 💻 InterviewU
 
-A collection of interview preparation material covering algorithms, Linux, networking, Python, and system design.
+A collection of interview preparation resources covering algorithms, Linux, networking, Python, and system design.
 
 **Tech:** Python • Linux • Git
 
@@ -56,7 +56,7 @@ A platform for learning Linux through hands-on labs, practical exercises, and re
 
 ### 🚀 TechSet
 
-A hands-on learning platform for IT certifications, combining interactive labs, structured courses, and practical scenarios to bridge the gap between theory and real-world skills.
+A hands-on learning platform for IT certifications, combining interactive labs, structured learning paths, and practical scenarios to bridge the gap between theory and real-world skills.
 
 **Tech:** Coming Soon
 
@@ -64,11 +64,11 @@ A hands-on learning platform for IT certifications, combining interactive labs, 
 
 ## 📚 Currently Learning
 
+- Go
 - AI Engineering
 - Agentic AI Systems
 - Distributed Systems
 - System Design
-- Modern Web Development
 
 ---
 
@@ -80,21 +80,17 @@ A hands-on learning platform for IT certifications, combining interactive labs, 
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimR97&layout=compact&theme=github_dark&hide_border=true"/>
 
-<br>
-
-<img src="https://streak-stats.demolab.com?user=FahimR97&theme=github-dark&hide_border=true"/>
-
 </div>
 
 ---
 
 ## 🎯 Current Focus
 
-- Building AI-powered SaaS products
-- Designing scalable backend systems
-- Expanding my expertise in distributed systems
-- Creating practical tools for developers and learners
-- Contributing to open source
+- 🤖 Building AI-powered SaaS products
+- ☁️ Designing scalable cloud infrastructure
+- ⚙️ Expanding my expertise in distributed systems
+- 🚀 Building TechSet, an interactive IT certification platform
+- 💡 Continuously learning and improving as a software engineer
 
 ---
 
