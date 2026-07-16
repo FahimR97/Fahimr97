@@ -1,71 +1,109 @@
+# Hi, I'm Fahim 👋
+
+### Software Engineer
+
+🏢 **Systems Development Engineer** at **Amazon Web Services (AWS)**
+
+ **London, United Kingdom** 🇬🇧📍
+
+I'm passionate about building scalable software, cloud infrastructure, AI-powered applications, and distributed systems.
+
+---
+
+## 🚀 About Me
+
+I'm a Software Engineer who enjoys building products that solve real problems.
+
+Professionally, I work on cloud infrastructure and distributed systems at Amazon Web Services. Outside of work, I build AI-powered SaaS products, explore modern technologies, and continuously improve my engineering skills.
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Fahim Rayhan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems Development Engineer @ AWS&descAlignY=55&descSize=18" />
-<a href="https://www.linkedin.com/in/fahimnrayhan/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,docker,kubernetes,aws,terraform,linux,bash,git,github,vscode&perline=8"/>
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+### 🤖 SportsContentEngine
+
+An AI-powered pipeline for generating short-form sports content using LLMs, automated narration, and video rendering.
+
+**Tech:** Python • TypeScript • Claude • ElevenLabs • Remotion
+
+---
+
+### 💻 InterviewU
+
+A collection of interview preparation material covering algorithms, Linux, networking, Python, and system design.
+
+**Tech:** Python • Linux • Git
+
+---
+
+### ☁️ MyLinuxLearning
+
+A platform for learning Linux through hands-on labs, practical exercises, and real-world troubleshooting scenarios.
+
+**Tech:** Linux • Bash
+
+---
+
+### 🚀 TechSet
+
+A hands-on learning platform for IT certifications, combining interactive labs, structured courses, and practical scenarios to bridge the gap between theory and real-world skills.
+
+**Tech:** Coming Soon
+
+---
+
+## 📚 Currently Learning
+
+- AI Engineering
+- Agentic AI Systems
+- Distributed Systems
+- System Design
+- Modern Web Development
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=FahimR97&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimR97&layout=compact&theme=github_dark&hide_border=true"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=FahimR97&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- Building AI-powered SaaS products
+- Designing scalable backend systems
+- Expanding my expertise in distributed systems
+- Creating practical tools for developers and learners
+- Contributing to open source
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/fahimnrayhan/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/FahimR97">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</div>
-<br>
-About Me
-I'm a Systems Development Engineer at Amazon Web Services, working on cloud infrastructure and distributed systems.
-Outside of work, I build practical tools rather than just following tutorials — mostly around AI applications, backend systems, and developer tooling.
-interests:
-  - Artificial Intelligence & LLM applications
-  - Cloud Engineering & Infrastructure
-  - Distributed Systems
-  - Full Stack Development
-  - Developer Tooling
-​
-<br>
-Tech Stack
-<div align="center">
-</div>
-<br>
-Featured Projects
-<table>
-<tr>
-<td width="50%" valign="top">
-🤖 SportsContentEngine
-AI-powered pipeline for generating short-form sports content — LLM-driven scripting, automated narration, and video rendering.
-Tech: Python TypeScript Remotion Claude ElevenLabs
-</td>
-<td width="50%" valign="top">
-💻 InterviewU
-Interview preparation material covering algorithms, Linux, networking, Python, and system design.
-Tech: Python Linux Git
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-☁️ MyLinuxLearning
-A platform with hands-on Linux labs for learning — practical exercises, commands, and troubleshooting scenarios, not just notes.
-Tech: Linux Bash
-</td>
-<td width="50%" valign="top">
-🚀 TechSet
-A learning platform for tech certification prep — structured resources and practice material.
-Tech: Docs Reference
-</td>
-</tr>
-</table>
-<br>
-Currently Learning
-Advanced distributed systems & system design
-AI engineering (LLMs, agentic systems)
-Modern web development
-<br>
-GitHub Stats
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=FahimR97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimR97&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FahimR97&theme=tokyonight&hide_border=true&background=0d1117" />
-</div>
-<br>
-<div align="center">
-"First, solve the problem. Then, write the code."
-— John Johnson
-<br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" />
-</div>
+
+</p>
