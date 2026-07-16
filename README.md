@@ -1,12 +1,18 @@
 # Hi, I'm Fahim 👋
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=2500&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineer;Systems+Development+Engineer+%40+AWS;Building+AI+Products;Building+TechSet;Cloud+%E2%80%A2+AI+%E2%80%A2+Distributed+Systems" alt="Typing SVG" />
+  </a>
+</p>
+
 ### Software Engineer
 
 🏢 **Systems Development Engineer** at **Amazon Web Services (AWS)**
 
 🇬🇧 📍 **London, United Kingdom**
 
-I build scalable software, cloud infrastructure, AI-powered applications, and distributed systems.
+I build scalable software, cloud infrastructure, AI-powered applications, and developer tools.
 
 ---
 
@@ -14,7 +20,7 @@ I build scalable software, cloud infrastructure, AI-powered applications, and di
 
 I'm a Software Engineer with a passion for building products that solve real-world problems.
 
-At Amazon Web Services, I work on cloud infrastructure and distributed systems. Outside of work, I'm building AI-powered SaaS products and platforms that help developers and IT professionals learn, automate, and build faster.
+At Amazon Web Services, I work on cloud infrastructure and distributed systems. Outside of work, I'm building AI-powered SaaS products and developer platforms while continuously expanding my knowledge of modern software engineering.
 
 ---
 
@@ -58,7 +64,7 @@ A platform for learning Linux through hands-on labs, practical exercises, and re
 
 A hands-on learning platform for IT certifications, combining interactive labs, structured learning paths, and practical scenarios to bridge the gap between theory and real-world skills.
 
-**Tech:** Coming Soon
+**Status:** 🚧 In Development
 
 ---
 
@@ -72,25 +78,13 @@ A hands-on learning platform for IT certifications, combining interactive labs, 
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=FahimR97&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimR97&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 - 🤖 Building AI-powered SaaS products
+- 🎓 Developing TechSet, an interactive IT certification platform
 - ☁️ Designing scalable cloud infrastructure
-- ⚙️ Expanding my expertise in distributed systems
-- 🚀 Building TechSet, an interactive IT certification platform
-- 💡 Continuously learning and improving as a software engineer
+- ⚙️ Deepening my expertise in distributed systems
+- 🌍 Contributing to open source
 
 ---
 
